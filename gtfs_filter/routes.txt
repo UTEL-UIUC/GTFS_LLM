@@ -1,0 +1,5 @@
+route_id,route_short_name,route_long_name,route_type,route_url,route_color,route_text_color
+X9,X9,Ashland Express,3,http://www.transitchicago.com/bus/X9/,b71234,ffffff
+49B,49B,North Western,3,http://www.transitchicago.com/bus/49B/,565a5c,ffffff
+120,120,Ogilvie/Streeterville Express,3,http://www.transitchicago.com/bus/120/,b71234,ffffff
+192,192,University of Chicago Hospitals Express,3,http://www.transitchicago.com/bus/192/,565a5c,ffffff

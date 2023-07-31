@@ -1,0 +1,64 @@
+stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,location_type,parent_station,wheelchair_boarding
+51,51,Ashland & Van Buren,"Ashland & Van Buren, Northbound, Northeast Corner",41.87655158,-87.66651521,0,,1
+316,316,Roosevelt & State,"Roosevelt & State, Eastbound, Southeast Corner",41.86728699,-87.62711056,0,,1
+455,455,Madison & Clinton,"Madison & Clinton, Westbound, Northeast Corner",41.88194735,-87.64104342,0,,1
+584,584,Fairbanks & Huron,"Fairbanks & Huron, Southbound, Northwest Corner",41.895127,-87.620375,0,,1
+587,587,Fairbanks & Ohio,"Fairbanks & Ohio, Southbound, Southwest Corner",41.89234,-87.62038,0,,1
+1056,1056,Sheridan & Irving Park,"Sheridan & Irving Park, Southbound, Southwest Corner",41.95429812,-87.65461109,0,,1
+1375,1375,Leland & Western (Brown Line),"Leland & Western (Brown Line), Eastbound, Southeast Corner",41.96663176,-87.68836263,0,,1
+1662,1662,Western Brown Line Station,"Western Brown Line Station, Westbound, Bus Terminal",41.96611083,-87.68856058,0,,1
+1664,1664,Western & Winnemac,"Western & Winnemac, Northbound, Southeast Corner",41.97294441,-87.68890282,0,,1
+1719,1719,Western & Winnemac,"Western & Winnemac, Southbound, Northwest Corner",41.97309429,-87.68920615,0,,1
+4164,4164,Ashland Orange Line Station,"Ashland Orange Line Station, Northbound, Bus Terminal",41.83910169,-87.66542703,0,,1
+4992,4992,Clinton & Quincy,"Clinton & Quincy, Southbound, Northwest Corner",41.878741,-87.641171,0,,1
+5009,5009,Canal & Adams,"Canal & Adams, Northbound, Southeast Corner",41.87919465,-87.63945989,0,,1
+5024,5024,Clinton & Madison,"Clinton & Madison, Southbound, Northwest Corner",41.881976,-87.641267,0,,1
+5668,5668,Irving Park & Clark,"Irving Park & Clark, Eastbound, Southwest Corner",41.95430946,-87.66239862,0,,1
+6131,6131,Ashland & 95th Street Terminal,"Ashland & 95th Street Terminal, Eastbound, Bus Terminal",41.7205904,-87.66298034,0,,1
+6147,6147,Ashland & 95th Street,"Ashland & 95th Street, Northbound, Northeast Corner",41.72148268,-87.66254275,0,,1
+6155,6155,Ashland & 87th Street,"Ashland & 87th Street, Northbound, Southeast Corner",41.73563842,-87.66291459,0,,1
+6159,6159,Ashland & 83rd Street,"Ashland & 83rd Street, Northbound, Southeast Corner",41.74293232,-87.66310223,0,,1
+6163,6163,Ashland & 79th Street,"Ashland & 79th Street, Northbound, Southeast Corner",41.75023213,-87.6632835,0,,1
+6168,6168,Ashland & 74th Street,"Ashland & 74th Street, Northbound, Southeast Corner",41.75936363,-87.66351209,0,,1
+6179,6179,Ashland/63rd Green Line Station,"Ashland/63rd Green Line Station, Northbound, Eastside of the Street",41.77886517,-87.66404863,0,,1
+6189,6189,Ashland & Garfield,"Ashland & Garfield, Northbound, Northeast Corner",41.79414887,-87.66443238,0,,1
+6201,6201,Ashland & 43rd Street,"Ashland & 43rd Street, Northbound, Southeast Corner",41.81581129,-87.66492427,0,,1
+6205,6205,Ashland & Pershing,"Ashland & Pershing, Northbound, Northeast Corner",41.82342621,-87.66526481,0,,1
+6209,6209,Ashland & 35th Street,"Ashland & 35th Street, Northbound, Southeast Corner",41.83038641,-87.66542064,0,,1
+6230,6230,Ashland & Roosevelt,"Ashland & Roosevelt, Northbound, Southeast Corner",41.86668013,-87.66623696,0,,1
+6233,6233,Ashland & Harrison,"Ashland & Harrison, Northbound, Southeast Corner",41.87401398,-87.66643877,0,,1
+6252,6252,Ashland & Milwaukee (Blue Line),"Ashland & Milwaukee (Blue Line), Northbound, Southeast Corner",41.903734,-87.667365,0,,1
+6259,6259,Ashland & Cortland,"Ashland & Cortland, Northbound, Southeast Corner",41.916024,-87.66769652,0,,1
+6280,6280,Ashland & Irving Park,"Ashland & Irving Park, Northbound, Southeast Corner",41.95418639,-87.66891604,0,,1
+6579,6579,Canal & Randolph/Washington,"Canal & Randolph/Washington, Southbound, Westside of the Street",41.883542,-87.639864,0,,1
+6586,6586,Michigan (Lower) & Illinois,"Michigan (Lower) & Illinois, Southbound, Northwest Corner",41.89100608,-87.6242924,0,,1
+6587,6587,Michigan (Lower) & Kinzie,"Michigan (Lower) & Kinzie, Southbound, Northwest Corner",41.89009242,-87.62425119,0,,1
+6588,6588,Wacker (Lower) & Michigan,"Wacker (Lower) & Michigan, Westbound, Northwest Corner",41.888361,-87.624931,0,,1
+13195,13195,59th Street & Ellis,"59th Street & Ellis, Westbound, Northeast Corner",41.78780169,-87.60101281,0,,1
+13197,13197,59th Street & Kimbark,"59th Street & Kimbark, Westbound, Northeast Corner",41.78787138,-87.59450063,0,,1
+14023,14023,59th Street & Drexel,"59th Street & Drexel, Westbound, Northside of the Street",41.78776144,-87.60361666,0,,1
+14499,14499,Ashland & Cermak,"Ashland & Cermak, Northbound, Northeast Corner",41.85256758,-87.66586867,0,,1
+14527,14527,Western & Foster,"Western & Foster, Northbound, Northeast Corner",41.97610579,-87.68901484,0,,1
+14591,14591,Western & Lawrence,"Western & Lawrence, Southbound, Southwest Corner",41.96835624,-87.68907108,0,,1
+14592,14592,Western & Lawrence,"Western & Lawrence, Northbound, Northeast Corner",41.96885702,-87.68876891,0,,1
+14781,14781,Ashland & 91st Street,"Ashland & 91st Street, Northbound, Northeast Corner",41.72866896,-87.66272381,0,,1
+14783,14783,Ashland & Lake (Green Line),"Ashland & Lake (Green Line), Northbound, Southeast Corner",41.8852199,-87.66677249,0,,1
+14864,14864,Ashland & 69th Street,"Ashland & 69th Street, Northbound, Northeast Corner",41.7687041,-87.66379063,0,,1
+14894,14894,Ashland & Addison,"Ashland & Addison, Northbound, Northeast Corner",41.94721935,-87.66871516,0,,1
+15164,15164,Cottage Grove & 57th Street,"Cottage Grove & 57th Street, Northbound, Northeast Corner",41.79163171,-87.60606746,0,,1
+15243,15243,Ashland & Diversey,"Ashland & Diversey, Northbound, Northeast Corner",41.93270293,-87.66825704,0,,1
+15843,15843,Ashland & Chicago,"Ashland & Chicago, Northbound, Northeast Corner",41.89627918,-87.66714744,0,,1
+15930,15930,Irving Park & Fremont,"Irving Park & Fremont, Westbound, Northside of the Street",41.95459923,-87.65200368,0,,1
+16140,16140,Roosevelt Orange/Red/Green Line Station,"Roosevelt Orange/Red/Green Line Station, Westbound, Northside of the Street",41.86755162,-87.62666395,0,,1
+17061,17061,Ashland & Taylor,"Ashland & Taylor, Northbound, Northeast Corner",41.86954418,-87.6663204,0,,1
+17076,17076,Ashland & Madison,"Ashland & Madison, Northbound, Northeast Corner",41.88161331,-87.66666668,0,,1
+17179,17179,Ashland & Grand,"Ashland & Grand, Northbound, Northeast Corner",41.89117642,-87.66702655,0,,1
+17180,17180,Ashland & North Ave,"Ashland & North Ave, Northbound, Northeast Corner",41.91079268,-87.66754012,0,,1
+17229,17229,Ashland & 18th Street,"Ashland & 18th Street, Northbound, Northeast Corner",41.85806609,-87.66600159,0,,1
+17256,17256,Ashland & 47th Street,"Ashland & 47th Street, Northbound, Northeast Corner",41.80900114,-87.66483748,0,,1
+17392,17392,Ashland & Fullerton,"Ashland & Fullerton, Northbound, Northeast Corner",41.92530861,-87.66800761,0,,1
+17646,17646,Lake Park & 53rd Street,"Lake Park & 53rd Street, Southbound, Southwest Corner",41.79926097,-87.58740257,0,,1
+18001,18001,Ashland & 59th Street,"Ashland & 59th Street, Northbound, Northeast Corner",41.7870259,-87.66425816,0,,1
+18002,18002,Ashland & 51st Street,"Ashland & 51st Street, Northbound, Northeast Corner",41.80156686,-87.6646383,0,,1
+18311,18311,Western & Foster,"Western & Foster, Southbound, Southwest Corner",41.97570728,-87.68928681,0,,1
+18636,18636,Ashland & Belmont/Lincoln,"Ashland & Belmont/Lincoln, Northbound, Northeast Corner",41.94002197,-87.66854462,0,,1
